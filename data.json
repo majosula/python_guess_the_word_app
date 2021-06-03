@@ -1,0 +1,40 @@
+{
+    "words":[
+        {
+            "word" : "banana",
+            "hint_one" : "it is an yellow object",
+            "hint_two" : "it is a fruit"
+        },
+
+        {
+            "word" : "elephant",
+            "hint_one" : "it is an animal",
+            "hint_two" : "it has a two big ears and a trunk"
+        },
+      
+        {
+            "word" : "bicycle",
+            "hint_one" : "it has 2 wheels",
+            "hint_two" : "it is a sport equipment"
+        },
+       
+        {
+            "word" : "television",
+            "hint_one" : "you can watch a film on it",
+            "hint_two" : "screen"
+        },
+
+        {
+            "word" : "python",
+            "hint_one" : "programming language",
+            "hint_two" : "type of a snake"
+        },
+
+        {
+            "word" : "Slovakia",
+            "hint_one" : "state in central Europe",
+            "hint_two" : "capital city is Bratislava"
+        }
+
+    ]
+}
