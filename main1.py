@@ -90,8 +90,3 @@ else:
                         print("YOU WON THIS GAME")
                     else:
                         print("SORRY, YOU LOST THIS GAME")
-
-''''
-#execution
-print("hint #1 \n"  + hint_one + " \n hint #2 \n" + hint_two)
-'''
